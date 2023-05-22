@@ -1,0 +1,3 @@
+Hii,
+Git is a source code management tool.
+Github is used to store source-code and to perform version control of source code.
